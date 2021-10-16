@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/starwalker00/myuniswap/issues"
   },
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.1"
+  },
   "homepage": "https://github.com/starwalker00/myuniswap#readme"
 }
